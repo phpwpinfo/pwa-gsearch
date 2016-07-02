@@ -2,7 +2,7 @@
 /*
 Plugin Name: ABCD Google Custom Search
 Description: Replace wordpress search with Google Custom Search (CSE)
-Version: 1.4
+Version: 1.5
 Tested up to: WPMU 4.4.1
 License: GNU General Public License 2.0 (GPL) http://www.gnu.org/licenses/gpl.html
 Author: Rohan Mehta
