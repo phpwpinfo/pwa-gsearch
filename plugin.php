@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Google Custom Search
+Plugin Name: ABCD Google Custom Search
 Description: Replace wordpress search with Google Custom Search (CSE)
 Version: 1.0
 Tested up to: WPMU 4.4.1
@@ -9,6 +9,8 @@ Author: Rohan Mehta
 Author URI: http://www.phpwpinfo.com
 Plugin URI:
 tags:Google Search, Google Custom Search, Google CSE, Wordpress Search
+GitHub Plugin URI: https://github.com/phpwpinfo/pwa-gsearch
+GitHub Branch: master
 */
 
 
